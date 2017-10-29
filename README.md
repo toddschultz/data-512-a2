@@ -36,4 +36,4 @@ The final output data file is named 'en-wikipedia_bias_2015a.csv' and contains t
 * Top10HQArticlespercent.jpg - image of the graph of the top 10 countries for the percentage of high-quality articles
 
 Limitations
-The analysis and conclusions are limited to the countries with where represented in both data set and represented in the English Wikipedia.
+The analysis and conclusions are limited to the countries with where represented in both data set and represented in the English Wikipedia. The requirement to use only English Wikipedia articles likely will skew the results towards favoring native English language countries. 
