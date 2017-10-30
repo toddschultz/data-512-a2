@@ -7,7 +7,7 @@ The original data sources used come from two different places. The first is from
 
 The second data source is from PRB found at http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14. The data of country population from mid-2015 is released under general copyright. 
  
-Also, a Wikimedia API endpoint for a machine learning system called ORES ("Objective Revision Evaluation Service") found at https://www.mediawiki.org/wiki/ORES and documentaiton found at https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model. ORES estimates the quality of an article (at a particular point in time), and assigns a series of probabilities that the article is in one of 6 quality categories. The options are, from best to worst:
+Also, a Wikimedia API endpoint for a machine learning system called ORES ("Objective Revision Evaluation Service") found at https://www.mediawiki.org/wiki/ORES and documentaiton found at https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model. The ORES data is copyrighted by PRB. ORES estimates the quality of an article (at a particular point in time), and assigns a series of probabilities that the article is in one of 6 quality categories. The options are, from best to worst:
 
 * FA - Featured article
 * GA - Good article
